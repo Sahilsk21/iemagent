@@ -1,0 +1,14 @@
+langgraph
+markdown
+langchain
+flask
+rank_bm25
+python-dotenv 
+langchain_google_genai
+langchain-community
+chromadb==0.4.15
+
+protobuf==3.20.3
+gspread 
+oauth2client
+
